@@ -1,0 +1,41 @@
+{
+  "name": "John Doe",
+  "email": "john.doe@example.com"
+}
+{
+  "id": 1,
+  "name": "John Doe",
+  "email": "john.doe@example.com"
+}
+[
+  {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+  },
+  {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com"
+  }
+]
+{
+  "id": 1,
+  "name": "John Doe",
+  "email": "john.doe@example.com"
+}
+{
+  "name": "John Updated",
+  "email": "john.updated@example.com"
+}
+{
+  "id": 1,
+  "name": "John Updated",
+  "email": "john.updated@example.com"
+}
+{
+  "message": "User deleted"
+}
+{
+  "count": 2
+}
